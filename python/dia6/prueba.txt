@@ -1,1 +1,7 @@
 Soy el nuevo texto
+Esta es la segunda linea
+listfromwritelineslist
+from
+write
+lines
+Este texto fue incluido usando el parametro a en el metodo open
