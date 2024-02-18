@@ -26,7 +26,7 @@ print(os.listdir())
 
 from pathlib import Path #From the pathlib library we import the Path module
 os.chdir('..')
-route=Path(os.getcwd()+'/alternativo') #Object Path allows to create a route from our working folder
+route=Path(os.getcwd()+'/ealternativo') #Object Path allows to create a route from our working folder
 print(route)
 file=route / 'alternativo.txt'
 my_file=open(file)
